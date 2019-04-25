@@ -30,8 +30,8 @@ input, select, button, textarea {
   border:1px solid #d3d3d3;
   border-radius:5.5px;
   width:274px;
- 
-  padding: 20px 20px;
+  height:84px;
+  padding: 0px 20px;
 
 }
 textarea {
@@ -66,7 +66,7 @@ html {
 }
 body {
   color: #7e7f84;
-  text-align: center;
+  text-align: left;
   font-size: 1em; /* используем безопасные шрифтовые CSS стеки */
   min-height:100%;
   font-family: 'Noto Sans', sans-serif;
@@ -132,7 +132,7 @@ img{
   box-shadow:0 4px 14px 0 rgba(38,125,206,0.43);
   border-radius:10px;
   width:250px;
-  /* height:50px; */
+  height:50px;
   color:#fff;
   margin: 10px 20px;
   transition: ease all 0.4s;
@@ -187,9 +187,9 @@ img{
 }
 .stickhead a{
   float: right;
-  padding: 10px;
+  padding: 23px;
   
-  line-height: 30px;
+  line-height: 20px;
   color:#4a4a4a;
   transition: ease all 0.4s;
 }
@@ -279,16 +279,6 @@ img{
   padding-top: 40px;
   transition: ease all 0.4s; 
 }
-.mainEvent{
-
-  background: #dadce4;
-  box-shadow:0 10px 25px 0 rgba(0,0,0,0.15);
-  border-radius:16px;
-  width:320px;
-  height:auto;
-  display: inline-block;
-  text-align: left;
-}
 /* .tabelkaevent{
   background: rgb(211, 255, 190);
   box-shadow:0 10px 25px 0 rgba(0,0,0,0.15);
@@ -319,4 +309,3 @@ img{
   display: block;
   margin: 0 auto;
 }*/
-
