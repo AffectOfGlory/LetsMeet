@@ -26,27 +26,28 @@
 </head>
 <body>
   <script src="js/index.js"></script>
+  <div id="login_div" class="main-div">
 		<div class="stickhead">
 				<a onclick="userinfopage()"><img src="img/set.png" alt="">Settings</a>
 				<a onclick="logout()"><img src="img/user.png" alt="">log out</a>
 				<a onclick="toindexpage()">Main Page</a>
 			</div> 
+			<h1>Dodaj nowe spotkanie!</h1>
+			<div class="main_wrap">
+			<div class="main-user">
+	
+			<input type="text" placeholder="Tytuł spotkania i cena" id="MeetTitle">
+			<input type="text" placeholder="Nazwa użytkownika" id="MeetUName">
+			<input type="text" placeholder="Lokalizacja" id="MeetLoc">
+			<textarea rows="4" cols="50" placeholder="Krótki opis spotkania" id="MeetLink"></textarea><br>
+			<p>Spotkanie dostępne od: </p>
+			<input type="date" id="MeetDate">
+			<p>Do: </p>
+			<input type="date" id="MeetTime">
 			
-			
-			<div id="user_div">
-			<div class="mainEvent">
-				<h1>Dodaj nowe spotkanie!</h1>
-
-				<input type="text" placeholder="Tytuł spotkania i cena" id="MeetTitle">
-				<input type="text" placeholder="Nazwa użytkownika" id="MeetUName">
-				<input type="text" placeholder="Lokalizacja" id="MeetLoc">
-				<input type="text" placeholder="Krotki opis spotkania" id="MeetLink">
-				<input type="date" id="MeetDate">
-				<input type="date" id="MeetTime">
-			
-				<input type="text" placeholder="Adres E-mail"  id="MeetEmail">
-				<input type="text" placeholder="Numer telefonu" id="MeetPhone">
-				<button id="BtnSave" class="btn" onclick='addmeetings("MeetTitle","MeetLoc","MeetLink","MeetUName","MeetDate","MeetTime","MeetEmail","MeetPhone")'>Save</button>
+			<input type="text" placeholder="Adres E-mail"  id="MeetEmail">
+			<input type="text" placeholder="Numer telefonu" id="MeetPhone">
+			<button id="BtnSave" class="btn" onclick='addmeetings("MeetTitle","MeetLoc","MeetLink","MeetUName","MeetDate","MeetTime","MeetEmail","MeetPhone")'>Save</button>
 	<p></p>
 	<p></p>
 	</div>
