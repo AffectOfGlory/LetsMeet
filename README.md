@@ -1,6 +1,6 @@
 # LetsMeet
  Easy way to search for a partner with the same interests
- Just example university project with
+ Just example university project
  
  
 Witaj na stronie projektu LetsMeet 
