@@ -12,9 +12,9 @@ Zaimplementowa jest możliwość dodawania ciekawych wydarzeń odbywających si�
 
 
 Skład zespołu projektowego: 
-Igor Kubrak 
-Bartosz Kowalski 
-Justyna Stadnik 
+Igor Kubrak - aplikacja
+Bartosz Kowalski - aplikacja
+Justyna Stadnik - dokumentacja
 
 <br><a target="_blank" href="https://marvelapp.com/30g1gdg/screen/44181773">Link do prototypu
 <br><a target="_blank" href="https://trello.com/b/y8X8UsU0/aplikacja-letsmeet"> Link do Trello
