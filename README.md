@@ -11,8 +11,8 @@ Aplikacja może być rozszerzona również o wspólne wyjazdy na narty, w góry,
 Zaimplementowa jest możliwość dodawania ciekawych wydarzeń odbywających się okolicy.
 
 <br><b>Skład zespołu projektowego:</b>
-<br>Igor Kubrak - aplikacja
-<br>Bartosz Kowalski -aplikacja
+<br>Igor Kubrak - aplikacja i wizualna strona
+<br>Bartosz Kowalski -aplikacja i prototyp
 <br>Justyna Stadnik -organizacja -dokumentacja
 
 <br><a target="_blank" href="https://marvelapp.com/30g1gdg/screen/44181773">Link do prototypu
