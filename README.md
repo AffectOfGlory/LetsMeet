@@ -10,11 +10,10 @@ Tworzony jest profil użytkownika podając płeć, znajomości języków oraz ho
 Aplikacja może być rozszerzona również o wspólne wyjazdy na narty, w góry, wyjścia na kręgle itd. 
 Zaimplementowa jest możliwość dodawania ciekawych wydarzeń odbywających się okolicy.
 
-
-Skład zespołu projektowego: 
-Igor Kubrak - aplikacja
-Bartosz Kowalski - aplikacja
-Justyna Stadnik - dokumentacja
+<br><b>Skład zespołu projektowego:</b>
+<br>Igor Kubrak - aplikacja
+<br>Bartosz Kowalski -aplikacja
+<br>Justyna Stadnik -organizacja -dokumentacja
 
 <br><a target="_blank" href="https://marvelapp.com/30g1gdg/screen/44181773">Link do prototypu
 <br><a target="_blank" href="https://trello.com/b/y8X8UsU0/aplikacja-letsmeet"> Link do Trello
