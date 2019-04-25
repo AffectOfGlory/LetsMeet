@@ -163,7 +163,6 @@ function Googlelogin() {
         }
     });
 }
-
 function Facebooklogin() {
     firebase.auth().onAuthStateChanged( function(user){
         if(user) {
@@ -579,4 +578,3 @@ function writetabelev(heh,meh){
 			+ meh[0] +"</p><p>" + meh[1] +"</p>Lokalizacja:<p>" + meh[4] + "</p>Telefon:<p>" + meh[5]+'</p></div>');
 
 }
-
